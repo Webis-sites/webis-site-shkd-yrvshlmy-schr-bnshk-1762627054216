@@ -1,0 +1,7 @@
+
+    # robots.txt for שקד ירושלמי סחר בנשק
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://שקד-ירושלמי-סחר-בנשק.com/sitemap.xml
