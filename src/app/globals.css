@@ -15,6 +15,9 @@
 
   --hero-bg: #000000;
   --hero-text: #969696;
+
+  --color-primary: #000000;
+  --color-secondary: #969696;
 }
 
     html {
