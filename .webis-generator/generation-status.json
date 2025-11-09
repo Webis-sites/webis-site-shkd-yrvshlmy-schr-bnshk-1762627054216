@@ -1,8 +1,11 @@
 {
-  "projectName": "שקד-ירושלמי-סחר-בנשק-1681",
-  "businessName": "שקד ירושלמי סחר בנשק",
-  "created": "2025-11-09T15:21:25.012Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-11-09T15:21:44.812Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-shkd-yrvshlmy-schr-bnshk-1762627054216"
 }
