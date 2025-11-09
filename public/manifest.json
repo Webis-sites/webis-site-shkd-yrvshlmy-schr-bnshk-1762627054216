@@ -1,0 +1,18 @@
+{
+    "name": "שקד ירושלמי סחר בנשק",
+    "short_name": "שקד",
+    "description": "שקד ירושלמי הוא איש יוצא שירות ביטחון כללי, סוחר נשק חוקי בין מדינות ומגשר בין ארגונים שמוכרים וקונים נשקים ואמל״ח.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "/favicon.ico",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+      }
+    ],
+    "dir": "rtl",
+    "lang": "he"
+  }
